@@ -1,5 +1,5 @@
 
-package Week8to11.WaterSupplyGUI.src.GUI;
+package GUI.src.GUI;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
